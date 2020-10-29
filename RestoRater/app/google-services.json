@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "586252372867",
+    "firebase_url": "https://restorater-ec735.firebaseio.com",
+    "project_id": "restorater-ec735",
+    "storage_bucket": "restorater-ec735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586252372867:android:ec921f73aab49089d0c4b6",
+        "android_client_info": {
+          "package_name": "com.example.restorater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586252372867-nugg4rh80gdnq7bpu62fght9gbvrqh0c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.restorater",
+            "certificate_hash": "852bbf4cdd3cc69e7fd9645b22e162dcf0e8133e"
+          }
+        },
+        {
+          "client_id": "586252372867-p3um298lqejbe4cnojcn6fgjb1b963n5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTelxwxJDtcbR75agIz0Mh1hq7gEl16zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586252372867-p3um298lqejbe4cnojcn6fgjb1b963n5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
